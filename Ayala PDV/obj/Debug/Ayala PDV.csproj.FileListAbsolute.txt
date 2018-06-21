@@ -1,0 +1,54 @@
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Ayala PDV.exe.config
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala_PDV.Properties.Resources.resources
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala PDV.csproj.GenerateResource.Cache
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Ayala PDV.exe
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Ayala PDV.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala PDV.exe
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala PDV.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\EntityFramework.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\System.Data.SQLite.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\EntityFramework.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\System.Data.SQLite.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Ayala PDV.exe.manifest
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Ayala PDV.application
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala PDV.exe.manifest
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala PDV.application
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala PDV.csprojResolveAssemblyReference.cache
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Auth.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Core.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\log4net.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Zlib.Portable.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Auth.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Core.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Core.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\log4net.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Debug\Zlib.Portable.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala_PDV.FrmMenuPrincipal.resources
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala_PDV.Presentacion.FrmAdministrarProductos.resources
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala_PDV.Presentacion.FrmVenta.resources
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala_PDV.Presentacion.FrmProductosRegistrados.resources
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala_PDV.Presentacion.FrmReporteVentas.resources
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala_PDV.Presentacion.FrmCarga.resources
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala_PDV.Presentacion.FrmLogin.resources
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Debug\Ayala_PDV.Presentacion.FrmDetalleVenta.resources

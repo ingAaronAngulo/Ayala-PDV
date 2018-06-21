@@ -1,0 +1,20 @@
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\Ayala PDV.exe.config
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\Ayala PDV.exe
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\Ayala PDV.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\EntityFramework.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\System.Data.SQLite.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\EntityFramework.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\System.Data.SQLite.xml
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Release\Ayala_PDV.Form1.resources
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Release\Ayala_PDV.Properties.Resources.resources
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Release\Ayala PDV.csproj.GenerateResource.Cache
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Release\Ayala PDV.exe
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Release\Ayala PDV.pdb
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\Ayala PDV.exe.manifest
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\bin\Release\Ayala PDV.application
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Release\Ayala PDV.exe.manifest
+C:\Users\orlan\Desktop\5to Semestre\apds\Ayala PDV\Ayala PDV\obj\Release\Ayala PDV.application

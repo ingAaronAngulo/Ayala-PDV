@@ -1,4 +1,4 @@
-﻿//Código creado por Aarón Angulousing System;
+﻿//Código creado por Aarón Angulo
 
 namespace Ayala_PDV.Presentacion
 {

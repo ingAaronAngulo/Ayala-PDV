@@ -1,4 +1,6 @@
-﻿namespace Ayala_PDV.Presentacion
+﻿//Código creado por Aarón Angulousing System;
+
+namespace Ayala_PDV.Presentacion
 {
     partial class FrmAdministrarProductos
     {

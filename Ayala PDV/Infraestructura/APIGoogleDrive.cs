@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Código creado por Aarón Angulo
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

@@ -1,4 +1,6 @@
-﻿using Ayala_PDV.Datos;
+﻿//Código creado por Aarón Angulousing System;
+
+using Ayala_PDV.Datos;
 using System;
 using System.Collections.Generic;
 using System.Linq;

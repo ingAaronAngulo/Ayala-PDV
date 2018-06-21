@@ -1,4 +1,6 @@
-﻿namespace Ayala_PDV
+﻿//Código creado por Aarón Angulousing System;
+
+namespace Ayala_PDV
 {
     partial class FrmMenuPrincipal
     {

@@ -1,4 +1,6 @@
-﻿using Ayala_PDV.Negocios;
+﻿//Código creado por Aarón Angulousing System;
+
+using Ayala_PDV.Negocios;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
